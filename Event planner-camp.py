@@ -62,7 +62,7 @@ conducted=[]
 
 ppl=0
 ch=0
-
+#The following below allows the user to select the various choice from the list
 while(ch!=6):
     print("\t---")
     print("MENU")
@@ -74,6 +74,7 @@ while(ch!=6):
     print("5.Display list")
     print("6.EXIT")
 
+    #this wil create a new even the the specified date
     ch= int(input("Enter your choice"))
     if ch==1:
         cm=input("Enter camp location:")
