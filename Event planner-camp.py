@@ -114,3 +114,5 @@ while(ch!=6):
 else:
     print("THNAK YOU!!")
 
+
+#idea to print the calender
